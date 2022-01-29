@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+}
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    color:#40514E;
+    
+}
+
+.firstsection{
+    background-color: #E4F9F5;
+    padding-top: 70px;
+    line-height: 2;
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.skill{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.chilli{
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+.heading{
+   margin:10px 0px; 
+   font-size: 5.625rem;
+   font-family: 'Sacramento', cursive;
+   margin-top:8.2rem ;
+   color:#66BFBF;
+   
+}
+hr{width: 10%;
+border-style: dotted none none none;
+margin: auto;
+border-color: #EAF6F6;
+border-width: 6px;}
+.headingp{
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+    color:#66BFBF;
+}
+h3{color:#11999E;}
+h2{
+    color:#66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{line-height: 2;}
+a{
+    color:#11999E;
+}
+
+.pro{
+    text-decoration: underline;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top:60px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left:250px;
+}
+
+.middle-container{
+   line-height: 2;
+  
+}
+.skills{margin-top: 20px;}
+.skill-row{
+    margin: 80px auto ;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.skills h2{margin-top: 20px;}
+
+.last{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.contact-me{
+    margin-top: 20px;
+    padding:10px;
+   
+    line-height: 2;
+}
+.contactmessage{width: 40%;
+margin: auto;}
+.bottom-container{
+    background-color: #E4F9F5;
+    padding: 30px 30px 0 30px;
+    font-size: 20px;
+}
+.footer-link{
+    margin: 0 10px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: black;
+}
+.button {
+    transition-duration: 0.4s;
+    text-decoration:none;
+    border-radius: 10px;
+    border-color:#11999E ;
+    border: 1px solid;
+    background-color:#11999E ;
+    padding: 5px;
+   /* Green */
+    color: white;
+    font-weight:bolder;
+    font-size: medium;
+    
+  }
+  
+  .button:hover {
+    background-color:#E4F9F5; 
+   
+    color: black;
+
+  }
+
+  .copyright{
+      margin-top: 10px;
+      color: grey;
+      font-size: 1rem;
+  }
